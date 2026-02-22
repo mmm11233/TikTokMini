@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Message Stroke Icon.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

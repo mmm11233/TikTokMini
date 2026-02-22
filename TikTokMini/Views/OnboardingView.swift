@@ -1,5 +1,5 @@
 //
-//  ContentView.swift
+//  OnboardingView.swift
 //  TikTokMini
 //
 //  Created by Mariam Joglidze on 17.02.26.
@@ -12,7 +12,7 @@ struct OnboardingView: View {
         ZStack(){
             Color.black
                 .ignoresSafeArea()
-                Image("icon")
+            Image(ImageBook.Icons.AppIcon)
                 .resizable()
                 .scaledToFit()
                 .frame(width: 100, height: 100)
